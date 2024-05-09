@@ -1,7 +1,7 @@
 # https-github.com-iksmith
 
   # Technology 🧑🏾‍💻:
-# Technical Skills 💻: Languages & Frameworks: HTML5, CSS3, Javascript, JQuery, Node.js, Express.js, React.js, PostgreSQL, Firebase
+# Technical Skills 💻: Languages & Frameworks: HTML5, CSS3, Javascript, Node.js, Express.js, React.js, PostgreSQL, Firebase
 # Frameworks: Bootstrap, Tailwind
 # Methodologies: Agile
 
